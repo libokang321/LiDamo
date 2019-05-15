@@ -15,3 +15,5 @@ RecyleView 有一个布局管理类 LinearLayoutManger 列表展示
                               getItemViewType() 获取视图类型
                               onCreateViewHondler() 
                               onBindViewHondler() 处理数据
+XBanner 要导入两个依赖
+        按照需求在布局中加入一个isClipChildrenMode属性
